@@ -1,4 +1,4 @@
-# No Fear of Nubbers – Introduction to Quantitative Data Analysis in R
+# No Fear of Numbers – Introduction to Quantitative Data Analysis in R
 
 This repository contains all materials for the workshop "No Fear of Numbers: Introduction to Quantitative Data Analysis in R" provided by the Data Science Center, University of Bremen.
 
