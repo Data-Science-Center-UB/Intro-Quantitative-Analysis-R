@@ -14,13 +14,17 @@ By the end of the workshop, participants will be able to describe, compare, and 
 - /Materials/ Exercises - Hands-On Material: Exercises with and without solution (PDF), Data
 
 ## Workshop Content
-The workshop combines basic theoretical input with plenty of hands-on exercises in R using the tidyverse and tidymodels packages, so that you not only understand key concepts but also gain confidence in applying them in practice.
+This workshop is an introduction to descriptive and inferential statistics. It combines basic theoretical input with plenty of hands-on exercises in R using the tidyverse and tidymodels packages, so that you not only understand key concepts but also gain confidence in applying them in practice. You will learn:
 
-- Describing and visualizing data (e.g. frequencies, distributions, summary stats)
+- Comprehending the theoretical concepts of descriptive and inferential statistics
+- Import, explore, and prepare data for analysis in R
+- Describing and visualizing data (e.g. frequencies, distributions, summary stats, ggplot2 graphics)
+- Understanding statistical key terms (e.g. p-values, confidence intervals, effect sizes)
 - Comparing groups (e.g. crosstabs, t-tests, ANOVA)
-- Running and interpreting simple linear and logistic regression models
-- Understanding key terms (e.g. p-values, confidence intervals, effect sizes)
+- Running and interpreting simple multivariate linear and logistic regression models
+- Understand the basic assumptions behind common statistical tests
 - Documenting your data analysis
+ 
 
 Hands-on exercises use the DZHW Nacaps 2018 Campus-Use-File: 
 
@@ -32,4 +36,4 @@ No background in statistics is assumed. A little programming experience in R or 
 
 ## Technical Requirements
 Your own laptop and a stable Wifi connection (e.g. via eduroam).
-Installation of R Version 4.5.0 and higher and RStudio Version 2025.05.1+513 and higher prior to the course. Both programs are free and open source.
+Installation of R Version 4.5.2 and higher and RStudio Version 2026.01.0+392 and higher prior to the course. Both programs are free and open source.
